@@ -51,7 +51,7 @@ NAME : M.CHANDRU
 
  REG NO: 212222230026
 
-PROGRAM CONTROLLER:
+### PROGRAM CONTROLLER:
 
 ```python
 using System.Collections;
@@ -90,7 +90,7 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
-MOVE FORWARD:
+### MOVE FORWARD:
 
 ```python
 using System.Collections;
@@ -113,7 +113,7 @@ public class MoveForward : MonoBehaviour
     }
 }
 ```
-Output:
+## Output:
 
 ![alt text](<Screenshot (196).png>)
 
